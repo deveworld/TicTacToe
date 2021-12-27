@@ -1,6 +1,5 @@
 package com.github.mcsim415.tictactoe
 
-import java.lang.Math.pow
 import kotlin.math.pow
 
 class AI(private val board: Board, private val marker: Cell) {
